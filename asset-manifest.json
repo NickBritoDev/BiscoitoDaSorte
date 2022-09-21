@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BiscoitoDaSorte/static/css/main.a6fb77a6.css",
+    "main.js": "/BiscoitoDaSorte/static/js/main.193ff8fb.js",
+    "static/media/lucky-cat.jpg": "/BiscoitoDaSorte/static/media/lucky-cat.c8b04a5ad037645dd9d3.jpg",
+    "static/media/biscoito.png": "/BiscoitoDaSorte/static/media/biscoito.10574f4adcfea1c07e1c.png",
+    "index.html": "/BiscoitoDaSorte/index.html",
+    "main.a6fb77a6.css.map": "/BiscoitoDaSorte/static/css/main.a6fb77a6.css.map",
+    "main.193ff8fb.js.map": "/BiscoitoDaSorte/static/js/main.193ff8fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6fb77a6.css",
+    "static/js/main.193ff8fb.js"
+  ]
+}

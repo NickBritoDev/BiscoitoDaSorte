@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 100vh;
+}
+
+.containerFull{
+    background-image: url('./assets/lucky-cat.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    backround-position: center;
+    height: 100vh;
+}
+
+.img{
+    width: 150px;
+    height: 150px;
+    margin-top: 50px;
+}
+
+.textoFrase{
+    margin-top: 15px;
+    width: 90%;
+    font-style: italic;
+    color: aliceblue;
+    text-align: center;
+}
+
+.btn{
+    margin-top: 35px;
+    background-color: red;
+    padding: 6px 25px;
+    outline: none;
+    border: yellow solid 1px;
+    color: yellow;
+    text-transform: uppercase;
+}
